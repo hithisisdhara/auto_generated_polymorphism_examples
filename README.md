@@ -4,6 +4,5 @@ Whave 4-5 classes with some inharitance relationship, and we generate some code 
 The root class will always have a() and b()
 The following clases choose to have a and b both then there won't be a loop of both methods calling each other 
 
-to dO: 
-1. fix for more methods 
-2. fix the print statement, it should be class method 
+to do: 
+Currentlythis prints for only methods a() and b(), I probably should add toString() as well 
